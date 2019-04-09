@@ -104,6 +104,14 @@ so you may need to verify that any particular combination is offered.</string>
                             <key>user</key>
                             <string>root</string>
                         </dict>
+                        <dict>
+                            <key>group</key>
+                            <string>admin</string>
+                            <key>path</key>
+                            <string>Applications/Firefox.app/Contents/Resources/distribution/policies.json</string>
+                            <key>user</key>
+                            <string>root</string>
+                        </dict>
                     </array>
                     <key>id</key>
                     <string>%PKG_ID%</string>
