@@ -28,7 +28,7 @@ so you may need to verify that any particular combination is offered.
 
 Altered to use JSON Files for the Dalhousie Libraries, by Graham Perkins</string>
     <key>Identifier</key>
-    <string>com.github.gperkinsdal.pkg.FirefoxPolicies-Dallibs</string>
+    <string>com.github.gperkinsdal.munki.FirefoxPolicies-Dallibs</string>
     <key>Input</key>
     <dict>
         <key>MUNKI_REPO_SUBDIR</key>
