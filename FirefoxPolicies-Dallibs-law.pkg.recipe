@@ -24,7 +24,7 @@ Examples include 'en_GB', 'en-US', 'de', 'ja-JP-mac', 'sv-SE', and 'zh-TW'
 No idea if all Firefox builds are available in all the same localizations, 
 so you may need to verify that any particular combination is offered.</string>
     <key>Identifier</key>
-    <string>com.github.gperkinsdal.pkg.FirefoxPolicies-Dallibs-wkk</string>
+    <string>com.github.gperkinsdal.pkg.FirefoxPolicies-Dallibs-law</string>
     <key>Input</key>
     <dict>
         <key>RELEASE</key>
@@ -34,9 +34,9 @@ so you may need to verify that any particular combination is offered.</string>
         <key>NAME</key>
         <string>Firefox</string>
         <key>ORG_NAME</key>
-        <string>Dallibs-wkk</string>
+        <string>Dallibs-law</string>
         <key>PKG_ID</key>
-        <string>dallibs-wkk.org.mozilla.firefox.pkg</string>
+        <string>dallibs-law.org.mozilla.firefox.pkg</string>
     </dict>
     <key>MinimumVersion</key>
     <string>0.4.0</string>
@@ -84,7 +84,7 @@ so you may need to verify that any particular combination is offered.</string>
                 <key>destination_path</key>
                 <string>%pkgroot%/Applications/Firefox.app/Contents/Resources/distribution</string>
                 <key>source_path</key>
-                <string>%RECIPE_DIR%/dallibs-wkk/distribution</string>
+                <string>%RECIPE_DIR%/dallibs-law/distribution</string>
             </dict>
             <key>Processor</key>
             <string>Copier</string>

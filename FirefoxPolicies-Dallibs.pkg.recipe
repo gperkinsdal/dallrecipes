@@ -28,7 +28,7 @@ so you may need to verify that any particular combination is offered.</string>
     <key>Input</key>
     <dict>
         <key>RELEASE</key>
-        <string>latest-esr</string>
+        <string>latest</string>
         <key>LOCALE</key>
         <string>en_US</string>
         <key>NAME</key>
